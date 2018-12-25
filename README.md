@@ -76,6 +76,7 @@ Node           |  authority  |
 282    |  0.018 | 
 
 Pagerank top 5
+
 Node           |  pagerank  |
 --------------|:-----:
 61    | 0.002 |  
@@ -85,7 +86,9 @@ Node           |  pagerank  |
 282    |  0.001 | 
 
 ### graph6
+
 hub top 5
+
 Node           |  hub |
 --------------|:-----:
 171     | 0.01|  
@@ -95,6 +98,7 @@ Node           |  hub |
 79    |  0.01 | 
 
 authority top 5
+
 Node           |  authority  |
 --------------|:-----:
 1052    | 0.014 |  
@@ -104,6 +108,7 @@ Node           |  authority  |
 78    |  0.010 | 
 
 Pagerank top 5
+
 Node           |  pagerank  |
 --------------|:-----:
 1052    | 0.00063 |  
@@ -115,6 +120,7 @@ Node           |  pagerank  |
 ### Transaction  (1000 nodes) directed
 
 hub top 5
+
 Node           |  hub |
 --------------|:-----:
 707     | 0.009|  
@@ -124,6 +130,7 @@ Node           |  hub |
 416    |  0.008 | 
 
 authority top 5
+
 Node           |  authority  |
 --------------|:-----:
  988    | 0.009 |  
@@ -133,6 +140,7 @@ Node           |  authority  |
 874   |  0.006 | 
 
 Pagerank top 5
+
 Node           |  pagerank  |
 --------------|:-----:
 851    | 0.00359 |  
@@ -144,6 +152,7 @@ Node           |  pagerank  |
 ### Transaction  (1000 nodes) Bi-directed
 
 hub top 5
+
 Node           |  hub |
 --------------|:-----:
 416     | 0.010|  
@@ -155,6 +164,7 @@ Node           |  hub |
 
 
 authority top 5
+
 Node           |  authority  |
 --------------|:-----:
 221    | 0.010 |  
@@ -164,6 +174,7 @@ Node           |  authority  |
 416   |  0.007 | 
 
 Pagerank top 5
+
 Node           |  pagerank  |
 --------------|:-----:
 136    | 0.00359 |  
