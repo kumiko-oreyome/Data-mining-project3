@@ -40,7 +40,7 @@ Node           | authority  | hub | pagerank |
 3    |  0.308 |0.308|  0.327 
 4    |  0.192 | 0.192 |  0.173
 
-#### raph4
+#### graph4
 Node           | authority  | hub | pagerank |
 --------------|:-----:|-----:| ----:
 1    | 0.142 |   0.270 |    0.287
@@ -66,6 +66,7 @@ Node           |  hub |
 325    |  0.020 | 
 
 authority top 5
+
 Node           |  authority  |
 --------------|:-----:
 61    | 0.036 |  
@@ -76,7 +77,7 @@ Node           |  authority  |
 
 Pagerank top 5
 Node           |  pagerank  |
---------------|:-----:|
+--------------|:-----:
 61    | 0.002 |  
 122    |  0.002 | 
 104    |  0.002 |
